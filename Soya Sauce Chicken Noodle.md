@@ -8,7 +8,7 @@
 **Tags:** Noodles; Chicken
 
 ## Details
-**Address:**        6 Jalan Bukit Merah, #01-102, Singapore 150006
+**Address:**        6 Jalan Bukit Merah, #01-102, Singapore 150006   
 **Opening Hours:**   
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
